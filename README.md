@@ -1,2 +1,2 @@
-# Max-Zargha
+# Max Zargha
 Artwork
