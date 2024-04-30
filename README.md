@@ -36,7 +36,7 @@ Artwork
 
     <section id="contact">
         <h2>Contact</h2>
-        <p>Email: example@example.com</p>
+        <p>Email: maxzargha@gmail.com.com</p>
     </section>
 
     <footer>
