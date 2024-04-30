@@ -45,7 +45,7 @@ Lorsque il laisse parler son inspiration sur tablette graphique, il n’a de ces
     </section>
 
     <footer>
-        <p>© 2024 Mon Nom. Tous droits réservés.</p>
+        <p>© 2024 Max Zargha. Tous droits réservés.</p>
     </footer>
 </body>
 </html>
